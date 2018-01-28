@@ -1,0 +1,4 @@
+,feature_selection,model,error_test,train_err,val_err,test_err
+0,Select From Model - LogisticRegression,LinearSVC,Logistic Regression,0.6373390557939914,0.585,0.581081081081081
+1,LinearSVC,LinearSVC,LinearSVC,0.6030042918454935,0.565,0.5675675675675675
+2,RFE LinearSVC,KNN,KNN,0.5964125560538116,0.6090909090909091,0.5135135135135135
