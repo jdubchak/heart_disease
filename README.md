@@ -2,7 +2,7 @@
 Feature and Model Selection Mini Project for DSCI 753
 
 ## Purpose
-The purpose of this mini project is to explore various forms of feature selection before building a model to predict whether an individual has heart disease. 
+The purpose of this mini project is to explore various forms of feature selection before building a model to predict whether an individual has heart disease. The final report can be found [here]().
 
 ## Data
 The data was collected in the late 1980's and was downloaded from the [UCI ML Repository](http://archive.ics.uci.edu/ml/datasets/heart+Disease). The principal investigators repsonsible for collecting the original data include:
